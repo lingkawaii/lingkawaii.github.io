@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>PicGo</title>
+      <link href="/article/90bb502d.html"/>
+      <url>/article/90bb502d.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="PicGO"><a href="#PicGO" class="headerlink" title="PicGO"></a>PicGO</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><a href="https://github.com/Molunerfinn/PicGo">Github_PicGo</a></p><h2 id="图库"><a href="#图库" class="headerlink" title="图库"></a>图库</h2><p><a href="https://github.com/lingkawaii/PicGo">PicGo</a></p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><h3 id="PicGo设置"><a href="#PicGo设置" class="headerlink" title="PicGo设置"></a>PicGo设置</h3><p><img src="https://cdn.jsdelivr.net/gh/lingkawaii/PicGo/img/image-20220403142843611.png" alt="image-20220403142843611"></p><h3 id="图床设置"><a href="#图床设置" class="headerlink" title="图床设置"></a>图床设置</h3><p>cdn加速:<a href="https://cdn.jsdelivr.net/gh">https://cdn.jsdelivr.net/gh</a></p><p><img src="https://cdn.jsdelivr.net/gh/lingkawaii/PicGo/img/image-20220403142544685.png" alt="image-20220403142544685"></p><h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><p>配合PicGo食用</p><p><img src="https://cdn.jsdelivr.net/gh/lingkawaii/PicGo/img/image-20220403143111485.png" alt="image-20220403143111485"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> PicGo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PicGo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>异步爬虫</title>
       <link href="/article/ba69cde5.html"/>
       <url>/article/ba69cde5.html</url>
