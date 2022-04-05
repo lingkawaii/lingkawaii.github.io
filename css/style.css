@@ -11,7 +11,7 @@
 }
 #web_bg {
     /* 背景图像的地址（url括号里）  */
-    background: url(/img/index/index_img.jpg);
+    background: url(https://cdn.jsdelivr.net/gh/lingkawaii/PicGo/img/六花转手指.gif);
     /* 背景图像不重复 */
     background-repeat: no-repeat;
     /* 背景图像大小 */
