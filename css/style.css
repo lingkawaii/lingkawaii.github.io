@@ -1,17 +1,6 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>#footer-wrap {
-}
-#footer {
-    background: transparent;
-}
-#footer-wrap a{
-    color: #49b1f5;
-}
-#footer-wrap {
-    color: #49b1f5;
-}
-#web_bg {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>#web_bg {
     /* 背景图像的地址（url括号里）  */
-    background: url(https://cdn.jsdelivr.net/gh/lingkawaii/PicGo/img/秋山澪.jpg);
+    background: url(/img/index/index_img.jpg);
     /* 背景图像不重复 */
     background-repeat: no-repeat;
     /* 背景图像大小 */
@@ -26,4 +15,13 @@
 #recent-posts>.recent-post-item,.layout>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post{
     /* 以下代表白色透明度为0.3 */
     background: rgba(255,255,255,.3);
+}
+#footer {
+    background: transparent;
+}
+#footer-wrap a{
+    color: #49b1f5;
+}
+#footer-wrap {
+    color: #49b1f5;
 }
