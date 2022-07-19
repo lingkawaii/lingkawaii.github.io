@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>Java学习</title>
+      <link href="/article/8df0ec14.html"/>
+      <url>/article/8df0ec14.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Java学习"><a href="#Java学习" class="headerlink" title="Java学习"></a>Java学习</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>图片API</title>
       <link href="/article/97d2789c.html"/>
       <url>/article/97d2789c.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="API接口"><a href="#API接口" class="headerlink" title="API接口"></a>API接口</h1><h2 id="随机图片"><a href="#随机图片" class="headerlink" title="随机图片"></a>随机图片</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://api.lingkawaii.ltd/images</span><br></pre></td></tr></table></figure><p><img src="https://api.lingkawaii.ltd/images" alt="随机" title="随机"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="API接口"><a href="#API接口" class="headerlink" title="API接口"></a>API接口</h1><h2 id="随机图片"><a href="#随机图片" class="headerlink" title="随机图片"></a>随机图片</h2><p>废了！！！</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://api.lingkawaii.ltd/images</span><br></pre></td></tr></table></figure><p><img src="https://api.lingkawaii.ltd/images" alt="随机" title="随机"></p>]]></content>
       
       
       <categories>
